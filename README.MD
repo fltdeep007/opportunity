@@ -62,14 +62,17 @@ export default defineConfig({
     tailwindcss(),
   ],
 })
+```
 
-4. **Run the application:**  
+4. Run the application:
+```sh
+npm run dev
+```
 
-   ```sh
-   npm run dev
-   ```
 
-### **Tasks Performed from Frontend Assessment**  
+
+
+### Tasks Performed from Frontend Assessment  
 
 ✅ Implemented product management using FakeStore API.  
 ✅ Created user management functionality with local state.  
