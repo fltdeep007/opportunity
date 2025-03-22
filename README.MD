@@ -13,6 +13,13 @@ Each folder (`app`  and `backend`) contains its own setup and documentation.
 
 ---
 
+### Setting up
+1. Clone the repository to your local machine.
+```bash
+cd clone https://github.com/fltdeep007/opportunity.git
+```
+
+
 ## **Frontend Setup**  
 
 The **BlueMedix Dashboard** is a React-based application that allows users to manage products and users using the **FakeStore API**.  
