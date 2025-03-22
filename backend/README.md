@@ -2,18 +2,13 @@
 
 ## Setup Instructions
 
-### 1. Clone the Repository
-```sh
-git clone <repository-url>
-cd backend
-```
 
-### 2. Install Dependencies
+### 1. Install Dependencies
 ```sh
 npm install
 ```
 
-### 3. Configure Environment Variables
+### 2. Configure Environment Variables
 Create a `.env` file in the `backend` folder and add the following variables:
 ```env
 MONGO_URI="your_mongo_database_url"
@@ -22,7 +17,7 @@ NODE_ENV=development
 JWT_SECRET="your_secret_key"
 ```
 
-### 4. Start the Server
+### 3. Start the Server
 ```sh
 npm run start
 ```
