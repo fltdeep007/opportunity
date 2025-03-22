@@ -45,7 +45,7 @@ The **BlueMedix Dashboard** is a React-based application that allows users to ma
 1. **Navigate to the frontend directory:**  
 
    ```sh
-   cd frontend
+   cd app
    ```
 
 2. Set up Tailwind CSS:
